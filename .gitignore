@@ -345,3 +345,6 @@ server-files/vfs-core.dll
 server-files/vfs-impl-server.dll
 server-files/voip-server-mumble.dll
 start_7542_default.bat
+cfg/admins.cfg
+cfg/keys.cfg
+cfg/settings.cfg
